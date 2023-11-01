@@ -8,6 +8,7 @@ Welcome to TheNxtBigThing, where innovation meets code! We are a team of passion
 - Harsh Khavale 🌟
 - Vidya Trimbake 🔧
 - Vaibhav More 💡
+- Sonia Sahu 🖥️
 - Shruti Rawat 🌈
 - Ankesh Agarwal 🛠️
 - Akshad Jaiswal 🚁
