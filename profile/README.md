@@ -1,6 +1,6 @@
 # TheNxtBigThing 💡
 
-Welcome to TheNxtBigThing, where innovation meets code! We are a team of passionate developers from dypimr with a mission to create the future.
+Welcome to TheNxtBigThing, where innovation meets code! We are a team of passionate developers from DYPIMR with a mission to create the future.
 
 ## Meet the Team 👨‍💻👩‍💻
 
